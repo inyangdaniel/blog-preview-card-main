@@ -49,6 +49,7 @@ h1 {
   padding:0.25rem 0.5rem;
   width: fit-content;
   border-radius: 0.25rem;
+  margin-bottom: 0.35rem;
 }
 aside > p {
   color: grey;
