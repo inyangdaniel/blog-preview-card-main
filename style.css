@@ -40,16 +40,17 @@ figure {
   display: flex;
   width: 100%;
   align-items: center;
+  gap: 0.5rem;
 }
 
 h1 {
   background-color: hsl(47, 88%, 63%);
   font-size: 16px;
-  padding: 0.25rem;
+  padding:0.25rem 0.5rem;
   width: fit-content;
   border-radius: 0.25rem;
 }
-aside > p{
+aside > p {
   color: grey;
 }
 
@@ -69,5 +70,6 @@ h4 {
 }
 
 figure img {
-  width: 2rem;
+  width: 3rem;
+  
 }
