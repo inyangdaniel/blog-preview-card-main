@@ -50,6 +50,7 @@ h1{
   font-size: 16px;
   padding: 0.25rem;
   width: fit-content;
+  border-radius:0.25rem;
   
 }
 
@@ -78,7 +79,8 @@ h4 {
 
 figure img{
   width: 2rem;
-  
+ 
+
 }
 
 
